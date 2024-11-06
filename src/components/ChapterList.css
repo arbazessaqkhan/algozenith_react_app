@@ -1,0 +1,16 @@
+.chapter-list {
+  width: 200px;
+  background-color: #f9fbfd;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+}
+
+.chapter {
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+.chapter.active {
+  color: #4c6ef5;
+  font-weight: bold;
+}

@@ -1,0 +1,23 @@
+.sidebar {
+  width: 200px;
+  background-color: #f9fbfd;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-bottom: 30px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar ul li {
+  padding: 10px 0;
+}
+
+.sidebar ul li.active {
+  color: #4c6ef5;
+  font-weight: bold;
+}

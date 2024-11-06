@@ -1,0 +1,11 @@
+.app {
+  display: flex;
+  background: linear-gradient(180deg, #FFFFFF 0%, #F1FBFF 100%);
+
+}
+
+.main-content {
+  width: 100%;
+  padding: 20px;
+}
+

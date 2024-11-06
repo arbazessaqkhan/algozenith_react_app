@@ -1,0 +1,15 @@
+.content {
+  display: flex;
+  padding: 20px;
+  flex-grow: 1;
+  background-color: #f9fafb;
+}
+
+.chapter-list {
+  width: 200px;
+  margin-right: 20px;
+}
+
+.learning-material {
+  flex-grow: 1;
+}
